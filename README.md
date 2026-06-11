@@ -48,7 +48,7 @@ E_FIT_MAX =  0.0            # upper bound of baseline fit window (V)
 
 6. Run all cells — the output plot (baseline, peak, and measured ΔI) is saved automatically as `.png`
 
-> **Input format:** the script expects CV data exported from PSTrace as a text/CSV file with a potential column (V) and a current column (µA). Adjust the import settings in the notebook if your export layout differs.
+> **Input format:** the script expects 3-5 cycles of CV data exported from PSTrace as a text/CSV file with a potential column (V) and a current column (µA). Adjust the import settings in the notebook if your export layout differs.
 
 
 ---
