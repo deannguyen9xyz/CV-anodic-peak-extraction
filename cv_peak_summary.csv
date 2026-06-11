@@ -1,0 +1,4 @@
+Cycle,Peak V (V),Peak I (µA),Baseline slope,Baseline intercept,Baseline R²,ΔI_peak (µA)
+Cyclic Voltammetry [2]: CV i vs E Scan 4 [2],0.058,156.368,19.136731,1.253718,0.99255,154.0037
+Cyclic Voltammetry [2]: CV i vs E Scan 5 [2],0.057,156.643,18.476185,1.161485,0.9929,154.4278
+Cyclic Voltammetry [2]: CV i vs E Scan 6 [2],0.057,156.206,18.170976,1.147991,0.99252,154.0217
