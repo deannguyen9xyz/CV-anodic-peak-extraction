@@ -21,7 +21,8 @@ For each forward (anodic) scan, the script:
 | File | Description |
 |------|-------------|
 | `main_v2.ipynb` | Main notebook — baseline fit, peak detection, ΔI extraction, and output plot |
-| `cv_peak_summary.csv` | Raw data |
+| `raw_data.csv` | Raw data |
+| `cv_peak_summary.csv` | Output data |
 | `cv_oxidation_peaks.png` | Output plot |
 | `README.md` | This file |
 
